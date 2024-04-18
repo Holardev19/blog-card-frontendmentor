@@ -90,7 +90,8 @@ body {
         margin-bottom: .9rem;
     }
 
-    .head:hover {
+    .head:hover,
+    .head:focus {
         color: var(--BGCOLOR);
         transition: color 500ms ease 0.3s;
 
@@ -167,7 +168,8 @@ body {
         margin-bottom: .9rem;
     }
 
-    .head:hover {
+    .head:hover,
+    .head:focus {
         color: var(--BGCOLOR);
         transition: color 500ms ease 0.3s;
     }
